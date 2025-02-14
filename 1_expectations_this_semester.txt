@@ -1,0 +1,27 @@
+**1. Introduction (100-150 words)**
+
+My name is Trisha Olorvida, and I recently turned 20 on February 7. As the oldest of four siblings and the only girl, I often take on responsibilities. I have a bit of knowledge in MySQL, Python and JavaScript because it was taught to us in our 1st and 2nd year of our program. My experience primarily lies in frontend development, as I have not yet worked with backend development or Node.js. However, I am eager to learn backend development to enhance my skills and broaden my experience. I believe that gaining knowledge in this area will not only make me a more versatile developer but also open up new opportunities for me in the tech field. I am excited  to learn more about backend development.
+
+**2. Course Expectations (200-300 words)**
+
+In this course, my main goal is to acquire backend development skills and improve my programming abilities since I lack confidence in this field. I am ready to learn how to create APIs, which are critical for facilitating communication between various software applications. Also, I would like to learn Node.js, an open-source, cross-platform run time environment and library for executing web applications outside the server of the client, and MongoDB, a popular NoSQL database that is able to efficiently manage large amounts of data.
+
+I would also like to know how Express, a Node.js web application framework, works. Knowing about Express will assist me in streamlining the web application development process and enhance my overall productivity as a developer. Being proficient with these technologies is important not only for my studies, since backend development is compulsory for my program, but also for my future professional life.
+
+I view this course as a key stepping stone which will motivate me to work on more challenging projects and lead to different opportunities within the tech industry. I am looking forward to the knowledge acquired and how it will help my development as a programmer and also in my future career in software development.
+
+**3. Challenges and Areas for Improvement (150-200 words)**
+
+The topics I found most difficult are primarily about programming, particularly the way in which some functions work. Although I understand the fundamentals and can compose basic code, I am not good at more complex programming activities. My aspiration is to develop my programming skills, especially database work and dealing with code errors effectively since I enjoy correcting mistakes, which inspires me to become better. And the feeling of detecting an error and correcting it gives satisfaction.
+
+In order to overcome these obstacles, I intend to concentrate on regular practice, for I am convinced that repetition is the key to becoming proficient in anything. Because I tend to struggle with learning things fast, regular practice will reinforce my knowledge in something, and this is not limited to programming alone. Even though I might not be able to implement all that I learn at this moment, I hope that these lessons will be useful in the future. 
+
+**4. Expectations from the Instructor (100-150 words)**
+
+What I expect from my instructor is to continue his way of teaching because it is easy to understand, even though I struggle sometimes but it is already my problem and not an instructor problem. The lessons are easy to understand, I just struggle to keep up because handling too much information in a day is a struggle for me, but I am trying my best to keep up.
+
+The instructor giving a thorough tutorial and giving coding examples and additional resources is a huge help because if I don't understand a thing, I can just take a look at the examples given and can solve the problem through that.
+
+**5. Final Thoughts (Optional, 50-100 words)**
+
+My goal is to learn about the course. I may not be going to be proficient with it, but I hope that I can at least understand how it works and how it came to that. Knowing how to create is one thing, and knowing how to understand is another. I am aware that I'm not good at it like the others but I hope that I can at least grasp the things they do and not be naive about it.
