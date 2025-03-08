@@ -5,3 +5,4 @@ const parsedUrl = url.parse(myUrl, true);
 
 console.log(parsedUrl);
 console.log('Query name:', parsedUrl.query.name);
+//console.log('Query name:', parsedUrl.query._limit);
