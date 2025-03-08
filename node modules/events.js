@@ -6,12 +6,12 @@ emitter.on('Start', () => {
   console.log('Starting application!');
 });
 
-emitter.on('event', (data), () => {
-    console.log('Name: $(data.name)');
+emitter.on('event', (data) => {
+    console.log(`Name: ${data.name}`);
   });
 
-emitter.on('event', (data), () => {
-    console.log('Age: $(data.age)');
+emitter.on('event', (data) => {
+    console.log(`Age: ${data.age}`);
   });
 
 emitter.on('Close', () => {
