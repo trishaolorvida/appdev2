@@ -7,7 +7,6 @@ const EventEmitter = require('events');
 const PORT = 3000;
 const eventEmitter = new EventEmitter();
 
-// Event listeners for file operations
 eventEmitter.on('fileCreated', (filename) => {
     console.log(`File created: ${filename}`);
 });
@@ -16,7 +15,6 @@ eventEmitter.on('fileDeleted', (filename) => {
     console.log(`File deleted: ${filename}`);
 });
 
-// Create an HTTP server
 const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(req.url, true);
     const pathname = parsedUrl.pathname;
@@ -93,7 +91,7 @@ const server = http.createServer((req, res) => {
             case '/update':
                 let updateBody = '';
                 req.on('data', chunk => {
-                    updateBody += chunk.toString(); // Convert Buffer to string
+                    updateBody += chunk.toString();
                 });
                 req.on('end', () => {
                     const { filename, content } = JSON.parse(updateBody);
@@ -121,7 +119,6 @@ const server = http.createServer((req, res) => {
     }
 });
 
-// Start the server
 server.listen(PORT, () => {
     console.log(`Server is listening on port ${PORT}`);
 });
