@@ -70,7 +70,7 @@ const server = http.createServer((req, res) => {
             case '/create':
                 let body = '';
                 req.on('data', chunk => {
-                    body += chunk.toString(); // Convert Buffer to string
+                    body += chunk.toString(); 
                 });
                 req.on('end', () => {
                     const { filename, content } = JSON.parse(body);
