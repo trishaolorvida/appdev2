@@ -8,7 +8,7 @@ eventEmitter.on('start', () => {
 
 //listener 2
 eventEmitter.on('data', (data) => {
-  console.log('Data received:' + data.name + ' ' + data.age);
+  console.log('Data received:' + data.name + ', ' + data.age);
 });
 
 //error
