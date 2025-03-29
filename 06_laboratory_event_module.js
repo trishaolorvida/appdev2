@@ -18,6 +18,6 @@ eventEmitter.on('error', (error) => {
 
 eventEmitter.emit('start');
 
-const sampleData = { name: "Trisha", age: 21 };
+const sampleData = { name: "John Doe", age: 25 };
 eventEmitter.emit('data', sampleData);
 eventEmitter.emit('error', 'Error Message!');
