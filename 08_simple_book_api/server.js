@@ -37,7 +37,6 @@ app.post('/api/books', (req, res) => {
 app.patch('/api/books/:id', (req, res) => {
     const book = books.find(b => b.id === parseInt(req.params.id));
     if (!book) return res.status(404).send('Book not found!');
-
     if (req.body.title) book.title = req.body.title;
     if (req.body.author) book.author = req.body.author;
 
